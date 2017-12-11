@@ -8,8 +8,7 @@ import android.view.View;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
-
-import com.laotan.easyreader.R;
+import huanglai.d9lab.study.modulelibrary.R;
 
 import static android.app.Activity.RESULT_OK;
 
