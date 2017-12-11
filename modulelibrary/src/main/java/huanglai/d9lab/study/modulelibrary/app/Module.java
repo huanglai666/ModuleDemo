@@ -23,4 +23,5 @@ public class Module {
         Utils.init(appContext);
         Toast.makeText(appContext, "Module加载完毕", Toast.LENGTH_LONG).show();
     }
+
 }
