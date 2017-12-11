@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.laotan.easyreader.R;
+import huanglai.d9lab.study.modulelibrary.R;
 
 
 /**
